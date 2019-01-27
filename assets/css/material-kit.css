@@ -10845,7 +10845,7 @@ fieldset[disabled][disabled] .btn-group-raised .btn,
   top: 0;
   height: 100%;
   line-height: 41px;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .btn-just-icon.btn-lg,
@@ -11188,6 +11188,7 @@ label {
   margin-top: 30px;
   margin-bottom: 25px;
   min-height: 32px;
+  font-size: 2rem;
 }
 
 #map {
@@ -14758,13 +14759,12 @@ h5,
 
 h6,
 .h6 {
-  font-size: 0.75rem;
   text-transform: uppercase;
   font-weight: 500;
 }
 
 p {
-  font-size: 14px;
+  font-size: 16px;
   margin: 0 0 10px;
 }
 
@@ -17371,7 +17371,7 @@ footer .pull-center {
 }
 
 .profile-page .profile img {
-  max-width: 160px;
+  max-width: 190px;
   width: 100%;
   margin: 0 auto;
   -webkit-transform: translate3d(0, -50%, 0);
